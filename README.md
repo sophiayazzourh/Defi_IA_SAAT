@@ -52,10 +52,10 @@ Trois dossiers seront ainsi crées :
 
 3. Temps de calcul 
 
-Avec un macOS équipé d'un processeur 3,1 GHz Intel Core i5 double voeur on a les temps de calcul suivant : 
+Avec un macOS équipé d'un processeur 3,1 GHz Intel Core i5 double coeur, on a les temps de calcul suivant : 
 
-- Pour la partie pre-processing (Cleaning + Vectorisation) : 
-- Pour la partie entraînement de la régression logisitique : 
+- Pour la partie pre-processing (Cleaning + Vectorisation) : environ 10 minutes
+- Pour la partie entraînement de la régression logisitique : environ 6 minutes
 
 4. (Optionel) Le notebook 
 
